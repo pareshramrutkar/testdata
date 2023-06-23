@@ -5,3 +5,7 @@ $ git branch...(to check branch name)
 $ fit add --all  OR  git add .  
 
 $ git status
+
+$ git commit -am "this is for testing"
+
+$ git push origin <branch> (main)
