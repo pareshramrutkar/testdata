@@ -1,0 +1,7 @@
+this is my file...
+
+$ git branch...(to check branch name)
+
+$ fit add --all  OR  git add .  
+
+$ git status
